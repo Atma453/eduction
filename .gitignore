@@ -1,0 +1,16 @@
+# API Keys — never upload these!
+.env
+
+# Cache files
+textbook_cache.pkl
+chunks_cache.pkl
+
+# PDF
+textbook.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
